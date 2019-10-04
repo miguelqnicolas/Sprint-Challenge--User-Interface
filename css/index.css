@@ -201,26 +201,33 @@ p {
 }
 
 .about-second-section div {
-    padding-bottom: 20px;
+    padding-bottom: 30px;
     border-bottom: 1px dashed black;
     width: 47.5%;
 }
 
-.about-third-section {
-    margin: 20px 0px 30px 0px;
-}
-
-/* why are pictures going outside of body margins? */
-
 .about-second-section div img {
     width: 100%;
+}
+
+.about-second-section div h2 {
+    margin-top: 15px;
+}
+
+.about-second-section div p {
+    margin-bottom: 30px;
 }
 
 .about-second-section div a {
     text-decoration: none;
     color: black;
     border: 1px solid black;
-    border-radius: 2px;
+    border-radius: 10px;
+    padding: 10px 30px 10px 30px;
+}
+
+.about-third-section {
+    margin: 20px 0px 30px 0px;
 }
 
 footer {
