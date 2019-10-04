@@ -42,11 +42,11 @@ The difference between "display: block" and "display: inline" is that "display: 
 
 3. What are the 4 areas of the box model?
 
-The 4 areas of the box model include the content, the padding, the border, and the margin in that order.
+The 4 areas of the box model include the content, the padding, the border, and the margin, in that order.
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-"Align-items: center" works on the cross axis which is the horizontal axis.
+"Align-items: center" works on the cross axis which is the vertical axis.
 
 5. Explain why git is valuable to a team of developers.
 
